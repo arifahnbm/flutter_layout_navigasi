@@ -30,3 +30,12 @@ Container
 
 Grid
 ![Grid](image/11.png)
+
+List View
+![List View](image/12.png)
+
+Stack
+![Stack](image/13.png)
+
+Card
+![Card](image/14.png)
